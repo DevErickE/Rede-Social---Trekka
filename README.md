@@ -25,4 +25,4 @@ Demonstrar de forma prática o uso de interações em páginas web por meio da m
    ```bash
    git clone https://github.com/DevErickE/Tenis-Nike
    
-   cd nike-product-page
+   cd Tenis-Nike

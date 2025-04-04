@@ -1,28 +1,28 @@
-# 🚀 Trekka – A Nova Era da Conexão Social 🌍  
+# 🏷️ Projeto: Página Interativa de Produto - Tênis Nike
 
-Trekka é uma **rede social inovadora** que permite aos usuários **compartilhar publicações, receber curtidas e interagir através de comentários**. Inspirado em grandes plataformas como Instagram, o Trekka oferece uma experiência fluida e moderna para conectar pessoas ao redor do mundo.  
+Este repositório contém uma aplicação web simples desenvolvida com **HTML, CSS e JavaScript**, que simula uma tela de exibição de um **tênis da marca Nike**. O objetivo é apresentar uma interface de venda com interatividade visual, permitindo ao usuário alterar a cor do produto ao clicar em um botão.
 
----
+## 🎯 Objetivo do Projeto
 
-## 📌 Recursos Principais  
-✅ **Publicações** – Compartilhe fotos, vídeos e textos com sua rede.  
-✅ **Curtidas** – Mostre que gostou de um post com um simples toque.  
-✅ **Comentários** – Interaja com outras postagens em tempo real.  
-✅ **Feed Dinâmico** – Veja postagens recentes e descubra novos perfis.  
-✅ **Perfil Personalizado** – Configure sua bio, foto e dados de exibição.  
+Demonstrar de forma prática o uso de interações em páginas web por meio da manipulação do DOM com JavaScript, aliando **design responsivo** e uma **experiência visual atrativa** para o usuário final.
 
----
+## 🔧 Funcionalidades
 
-## 🛠️ Tecnologias Utilizadas  
-🚀 **Frontend:** React Native / Flutter  
-🔧 **Backend:** Node.js / Firebase  
-🗄️ **Banco de Dados:** MongoDB / PostgreSQL  
+- Exibição de um modelo de tênis Nike;
+- Botão interativo para alterar a cor do tênis;
+- Interface responsiva, compatível com diferentes tamanhos de tela;
+- Estilo visual limpo e moderno, com foco na usabilidade.
 
----
+## 🖥️ Tecnologias Utilizadas
 
-## 📥 Instalação e Uso  
+- **HTML5**  
+- **CSS3**  
+- **JavaScript Vanilla**
 
-1️⃣ Clone o repositório:  
-```bash
-git clone https://github.com/DevErickE/Rede-Social---Trekka.git
-cd trekka
+## ▶️ Como Executar Localmente
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/DevErickE/Tenis-Nike
+   
+   cd nike-product-page
